@@ -1,0 +1,23 @@
+.paper{
+    max-width: 640px;
+    min-width: 380px;
+    height: 800px;
+    min-height: 400px;
+    margin: 20px auto;
+    padding: 10px;
+    border: black 2px solid;   
+    box-shadow: 100px 100px red;
+    text-shadow: 20px red;
+
+   
+}
+.grid{
+    padding-top: 20px;
+}
+.typo{
+    padding-top: 10px;
+}
+
+body{
+    background-color:black;
+}
